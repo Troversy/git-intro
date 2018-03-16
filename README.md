@@ -1,3 +1,4 @@
+
 # Introduction to Git
 
 Git is a free and open source distributed version control system designed to
@@ -20,3 +21,4 @@ workflows.
 ## Contributors
 
 * Serrano Pereira
+* Joram Kuipers
